@@ -2,7 +2,7 @@
   "name": "npm-things",
   "version": "2.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index111.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release:patch": "npm version patch && git push origin master --tags",
